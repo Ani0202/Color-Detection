@@ -12,4 +12,4 @@ pip install opencv-python numpy pandas
 
 You can run the Python file from the command prompt. Make sure to give an image path using ‘-i’ argument. If the image is in another directory, then you need to give full path of the image:
 
-  python code.py -i <add your image path here>
+  python code.py -i add_your_image_path_here
